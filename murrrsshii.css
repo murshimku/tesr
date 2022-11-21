@@ -1,0 +1,68 @@
+*
+{
+    MARGIN: 0PX;
+}
+.HEADING
+{
+    MARGIN-LEFT: 100PX;
+}
+.HEAD
+{
+    MARGIN-LEFT: 250PX;
+    MARGIN-TOP: -60PX;
+}
+.HEAD >H1
+{
+    FONT-SIZE: 30PX;
+    color: chartreuse;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.HEAD >h4
+{
+    font-size: 30px;
+    color: darkgoldenrod;
+    font-family: 'Times New Roman', Times, serif;
+}
+.menu
+{
+    margin-left: 100px;
+}
+ul
+{
+    display: inline;
+    margin: 100px;
+}
+li
+{
+    display: inline;
+    margin-right: 100px;
+}
+.address
+{
+    margin-top: 100;
+    background-color: darksalmon;
+    margin-left: 100px;
+}
+.course
+{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+table
+{
+    width: 300px;
+}
+th,td
+{
+    border: solid;
+}
+.FOOTER
+{
+    background-color: brown;
+    text-align: center;
+}
+.address > img 
+{
+    height: 333px;
+    width: 333px;
+}
